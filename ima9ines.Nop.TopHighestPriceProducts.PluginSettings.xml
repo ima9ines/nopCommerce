@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.TopHighestPriceProducts.PluginSeName">
+        <Value>top-highest-price-products/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.TopHighestPriceProducts.RateUri">
+        <Value>http://www.nopcommerce.com/p/1710/top-highest-price-products-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.TopHighestPriceProducts.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/top-highest-price-products</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.TopHighestPriceProducts.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-top-highest-price-products-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.TopHighestPriceProducts.ReportBugsUri">
+        <Value>http://ima9ines.com/top-highest-price-products</Value>
+    </Setting>
+</Settings>
