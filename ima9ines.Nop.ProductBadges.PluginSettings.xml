@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.ProductBadges.PluginSeName">
+        <Value>product-badges/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductBadges.RateUri">
+        <Value>https://www.nopcommerce.com/p/2159/product-badges-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductBadges.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/product-badges</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductBadges.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-product-badges-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductBadges.ReportBugsUri">
+        <Value>http://ima9ines.com/product-badges</Value>
+    </Setting>
+</Settings>
