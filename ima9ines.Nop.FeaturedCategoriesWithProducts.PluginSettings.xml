@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.FeaturedCategoriesWithProducts.PluginSeName">
+        <Value>featured-categories-with-products/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FeaturedCategoriesWithProducts.RateUri">
+        <Value>http://www.nopcommerce.com/p/2131/featured-categories-with-products-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FeaturedCategoriesWithProducts.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/featured-categories-with-products</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FeaturedCategoriesWithProducts.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-featured-categories-with-products-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FeaturedCategoriesWithProducts.ReportBugsUri">
+        <Value>http://ima9ines.com/featured-categories-with-products</Value>
+    </Setting>
+</Settings>
