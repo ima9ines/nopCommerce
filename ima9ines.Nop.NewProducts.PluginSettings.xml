@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.NewProducts.PluginSeName">
+        <Value>new-products/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.NewProducts.RateUri">
+        <Value>http://www.nopcommerce.com/p/1703/new-products-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.NewProducts.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/new-products</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.NewProducts.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-new-products-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.NewProducts.ReportBugsUri">
+        <Value>http://ima9ines.com/new-products</Value>
+    </Setting>
+</Settings>
