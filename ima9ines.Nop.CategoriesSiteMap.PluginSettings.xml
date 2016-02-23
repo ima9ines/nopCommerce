@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.CategoriesSiteMap.PluginSeName">
+        <Value>categories-site-map/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.CategoriesSiteMap.RateUri">
+        <Value>http://www.nopcommerce.com/p/1778/categories-site-map-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.CategoriesSiteMap.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/categories-site-map</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.CategoriesSiteMap.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-categories-site-map-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.CategoriesSiteMap.ReportBugsUri">
+        <Value>http://ima9ines.com/categories-site-map</Value>
+    </Setting>
+</Settings>
