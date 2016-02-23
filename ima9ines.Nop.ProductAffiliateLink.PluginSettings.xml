@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.ProductAffiliateLink.PluginSeName">
+        <Value>product-affiliate-link/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductAffiliateLink.RateUri">
+        <Value>http://www.nopcommerce.com/p/1821/product-affiliate-link-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductAffiliateLink.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/product-affiliate-link</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductAffiliateLink.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-product-affiliate-link-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.ProductAffiliateLink.ReportBugsUri">
+        <Value>http://ima9ines.com/product-affiliate-link</Value>
+    </Setting>
+</Settings>
