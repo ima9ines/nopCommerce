@@ -4,7 +4,7 @@
         <Value>facebook-embedded-comments/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.RateUri">
-        <Value>http://www.nopcommerce.com/p/1734/facebook-comments-free-ima9inescom.aspx</Value>
+        <Value>https://www.nopcommerce.com/p/2532/facebook-embedded-comments-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.SuggestFeaturesUri">
         <Value>http://ima9ines.com/facebook-embedded-comments</Value>
