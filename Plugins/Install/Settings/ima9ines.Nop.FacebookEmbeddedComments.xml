@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.PluginSeName">
+        <Value>facebook-embedded-comments/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.RateUri">
+        <Value>http://www.nopcommerce.com/p/1734/facebook-comments-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/facebook-embedded-comments</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-facebook-embedded-comments-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FacebookEmbeddedComments.ReportBugsUri">
+        <Value>http://ima9ines.com/facebook-embedded-comments</Value>
+    </Setting>
+</Settings>
