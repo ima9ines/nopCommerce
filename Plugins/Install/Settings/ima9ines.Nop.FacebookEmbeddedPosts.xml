@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.PluginSeName">
-        <Value>facebook-embedded-comments/</Value>
+        <Value>facebook-embedded-posts/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.RateUri">
         <Value></Value>
