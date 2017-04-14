@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.Theme.JadePlayer.PluginSeName">
+        <Value>theme-jade-player/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.Theme.JadePlayer.RateUri">
+        <Value>https://www.nopcommerce.com/p/xxxx/theme-jade-player-free-ima9inescom.aspx</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.Theme.JadePlayer.SuggestFeaturesUri">
+        <Value>http://ima9ines.com/theme-jade-player</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.Theme.JadePlayer.HelpUri">
+        <Value>http://ima9ines.com/how-to-use-jade-player-theme</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.Theme.JadePlayer.ReportBugsUri">
+        <Value>http://ima9ines.com/theme-jade-player</Value>
+    </Setting>
+</Settings>
