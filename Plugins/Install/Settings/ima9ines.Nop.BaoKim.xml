@@ -13,6 +13,6 @@
         <Value>http://ima9ines.com/how-to-use-bao-kim-buy-now-button-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.BaoKim.ReportBugsUri">
-        <Value>http://ima9ines.com/bao-kim-button</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>
