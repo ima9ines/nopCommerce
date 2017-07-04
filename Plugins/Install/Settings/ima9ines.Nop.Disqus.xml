@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.Disqus.PluginSeName">
-        <Value>disqus/</Value>
+        <Value>disqus-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.Disqus.RateUri">
         <Value>http://www.nopcommerce.com/p/1746/generic-comments-disqus-universal-code-integration-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.Disqus.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/disqus-comments</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.Disqus.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-disqus-comments-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/disqus-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.Disqus.ReportBugsUri">
-        <Value>http://ima9ines.com/disqus-comments</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

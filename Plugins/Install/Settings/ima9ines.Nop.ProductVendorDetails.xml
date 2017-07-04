@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.ProductVendorDetails.PluginSeName">
-        <Value>product-vendor-details/</Value>
+        <Value>product-vendor-details-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductVendorDetails.RateUri">
         <Value>http://www.nopcommerce.com/p/1716/product-vendor-details-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductVendorDetails.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/product-vendor-details</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductVendorDetails.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-product-vendor-details-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/product-vendor-details-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductVendorDetails.ReportBugsUri">
-        <Value>http://ima9ines.com/product-vendor-details</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

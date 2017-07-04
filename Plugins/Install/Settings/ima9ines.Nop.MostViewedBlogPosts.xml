@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.MostViewedBlogPosts.PluginSeName">
-        <Value>most-viewed-blog-posts/</Value>
+        <Value>most-viewed-blog-posts-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedBlogPosts.RateUri">
         <Value>http://www.nopcommerce.com/p/1773/most-viewed-blog-posts-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedBlogPosts.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/most-viewed-blog-posts</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedBlogPosts.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-most-viewed-blog-posts-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/most-viewed-blog-posts-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedBlogPosts.ReportBugsUri">
-        <Value>http://ima9ines.com/most-viewed-blog-posts</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

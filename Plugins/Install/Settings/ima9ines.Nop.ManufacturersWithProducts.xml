@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.ManufacturersWithProducts.PluginSeName">
-        <Value>manufacturers-with-products/</Value>
+        <Value>manufacturers-with-products-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ManufacturersWithProducts.RateUri">
         <Value>https://www.nopcommerce.com/p/2149/manufacturers-with-products-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ManufacturersWithProducts.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/manufacturers-with-products</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ManufacturersWithProducts.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-manufacturers-with-products-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/manufacturers-with-products-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ManufacturersWithProducts.ReportBugsUri">
-        <Value>http://ima9ines.com/manufacturers-with-products</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

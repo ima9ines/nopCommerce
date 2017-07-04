@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.FacebookLikeButton.PluginSeName">
-        <Value>facebook-like-button/</Value>
+        <Value>facebook-like-button-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookLikeButton.RateUri">
         <Value>http://www.nopcommerce.com/p/1736/facebook-like-button-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookLikeButton.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/facebook-like-button</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookLikeButton.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-facebook-like-button-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/facebook-like-button-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookLikeButton.ReportBugsUri">
-        <Value>http://ima9ines.com/facebook-like-button</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

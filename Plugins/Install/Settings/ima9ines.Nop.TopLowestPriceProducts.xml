@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.TopLowestPriceProducts.PluginSeName">
-        <Value>top-lowest-price-products/</Value>
+        <Value>top-lowest-price-products-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopLowestPriceProducts.RateUri">
         <Value>http://www.nopcommerce.com/p/1711/top-lowest-price-products-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopLowestPriceProducts.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/top-lowest-price-products</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopLowestPriceProducts.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-top-lowest-price-products-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/top-lowest-price-products-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopLowestPriceProducts.ReportBugsUri">
-        <Value>http://ima9ines.com/top-lowest-price-products</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.PluginSeName">
-        <Value>facebook-embedded-posts/</Value>
+        <Value>facebook-embedded-posts-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.RateUri">
         <Value>https://www.nopcommerce.com/p/2539/facebook-embedded-posts-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/facebook-embedded-posts</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-facebook-embedded-posts-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/facebook-embedded-posts-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookEmbeddedPosts.ReportBugsUri">
-        <Value>http://ima9ines.com/facebook-embedded-posts</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

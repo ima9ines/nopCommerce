@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.FacebookComments.PluginSeName">
-        <Value>facebook-comments/</Value>
+        <Value>facebook-comments-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookComments.RateUri">
         <Value>http://www.nopcommerce.com/p/1734/facebook-comments-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookComments.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/facebook-comments</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookComments.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-facebook-comments-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/facebook-comments-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookComments.ReportBugsUri">
-        <Value>http://ima9ines.com/facebook-comments</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.TopRatedProducts.PluginSeName">
-        <Value>top-rated-products/</Value>
+        <Value>top-rated-products-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopRatedProducts.RateUri">
         <Value>http://www.nopcommerce.com/p/1776/top-rated-products-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopRatedProducts.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/top-rated-products</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopRatedProducts.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-top-rated-products-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/top-rated-products-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.TopRatedProducts.ReportBugsUri">
-        <Value>http://ima9ines.com/top-rated-products</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

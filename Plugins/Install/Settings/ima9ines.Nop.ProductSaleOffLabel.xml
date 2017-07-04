@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.ProductSaleOffLabel.PluginSeName">
-        <Value>product-sale-off-label/</Value>
+        <Value>product-sale-off-label-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductSaleOffLabel.RateUri">
         <Value>http://www.nopcommerce.com/p/2100/product-sale-off-label-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductSaleOffLabel.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/product-sale-off-label</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductSaleOffLabel.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-product-sale-off-label-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/product-sale-off-label-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductSaleOffLabel.ReportBugsUri">
-        <Value>http://ima9ines.com/product-sale-off-label</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

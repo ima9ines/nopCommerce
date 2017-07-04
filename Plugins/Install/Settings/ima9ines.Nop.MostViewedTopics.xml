@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.MostViewedTopics.PluginSeName">
-        <Value>most-viewed-topics/</Value>
+        <Value>most-viewed-topics-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedTopics.RateUri">
         <Value>https://www.nopcommerce.com/p/2231/most-viewed-topics-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedTopics.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/most-viewed-topics</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedTopics.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-most-viewed-topics-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/most-viewed-topics-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MostViewedTopics.ReportBugsUri">
-        <Value>http://ima9ines.com/most-viewed-topics</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.ProductReviews.PluginSeName">
-        <Value>product-reviews/</Value>
+        <Value>product-reviews-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductReviews.RateUri">
         <Value>https://www.nopcommerce.com/p/2116/product-reviews-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductReviews.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/product-reviews</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductReviews.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-product-reviews-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/product-reviews-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProductReviews.ReportBugsUri">
-        <Value>http://ima9ines.com/product-reviews</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

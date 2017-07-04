@@ -40,12 +40,12 @@
         <Value>http://ima9ines.com/core-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/core-plugin/</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-core-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/core-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ReportBugsUri">
-        <Value>http://ima9ines.com/core-plugin/</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>

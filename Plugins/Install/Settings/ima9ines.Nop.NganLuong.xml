@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.NganLuong.PluginSeName">
-        <Value>ngan-luong/</Value>
+        <Value>ngan-luong-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.NganLuong.RateUri">
         <Value>http://www.nopcommerce.com/p/1742/ngan-luong-embed-code-button-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.NganLuong.SuggestFeaturesUri">
-        <Value>http://ima9ines.com/ngan-luong-button</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.NganLuong.HelpUri">
-        <Value>http://ima9ines.com/how-to-use-ngan-luong-buy-now-button-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/ngan-luong-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.NganLuong.ReportBugsUri">
-        <Value>http://ima9ines.com/ngan-luong-button</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
 </Settings>
