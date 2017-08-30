@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.FAQ.PluginSeName">
+        <Value>faq-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FAQ.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FAQ.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FAQ.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/faq-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.FAQ.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
