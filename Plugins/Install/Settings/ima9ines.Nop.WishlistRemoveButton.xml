@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.WishlistRemoveButton.PluginSeName">
-        <Value>wishlist-remove-button-plugin/</Value>
+        <Value>wishlist-remove-button-plugin-390/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.WishlistRemoveButton.RateUri">
         <Value>http://www.nopcommerce.com/p/1718/wishlist-remove-button-free-ima9inescom.aspx</Value>
@@ -10,7 +10,7 @@
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.WishlistRemoveButton.HelpUri">
-        <Value>https://github.com/ima9ines/nopCommerce/wiki/wishlist-remove-button-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/how-to-use-wishlist-remove-button-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.WishlistRemoveButton.ReportBugsUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
