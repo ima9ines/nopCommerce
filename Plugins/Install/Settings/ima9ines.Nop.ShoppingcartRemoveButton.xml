@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Setting Key="ima9ines.Nop.ShoppingcartRemoveButton.PluginSeName">
-        <Value>shoppingcart-remove-button-plugin/</Value>
+        <Value>shoppingcart-remove-button-plugin-390/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ShoppingcartRemoveButton.RateUri">
         <Value>http://www.nopcommerce.com/p/1706/shoppingcart-remove-button-free-ima9inescom.aspx</Value>
@@ -10,7 +10,7 @@
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ShoppingcartRemoveButton.HelpUri">
-        <Value>https://github.com/ima9ines/nopCommerce/wiki/shoppingcart-remove-button-plugin</Value>
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/how-to-use-shoppingcart-remove-button-plugin</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ShoppingcartRemoveButton.ReportBugsUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
