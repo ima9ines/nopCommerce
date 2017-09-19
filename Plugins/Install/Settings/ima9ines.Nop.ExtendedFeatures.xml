@@ -4,7 +4,7 @@
         <Value>extended-features-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ExtendedFeatures.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/2887/extended-features-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ExtendedFeatures.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
