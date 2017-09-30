@@ -7,16 +7,16 @@
         <Value>Images/Logo-96x96.png</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FreePluginsUrl">
-        <Value>http://ima9ines.com/free-plugins</Value>
+        <Value>http://ima9ines.com/nopcommerce-plugins-free</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProPluginsUrl">
-        <Value>http://ima9ines.com/pro-plugins</Value>
+        <Value>http://ima9ines.com/nopcommerce-plugins-pro</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FreeThemesUrl">
-        <Value>http://ima9ines.com/free-themes</Value>
+        <Value>http://ima9ines.com/nopcommerce-themes-free</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.ProThemesUrl">
-        <Value>http://ima9ines.com/pro-themes</Value>
+        <Value>http://ima9ines.com/nopcommerce-themes-pro</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.RssUrl">
         <Value>http://ima9ines.com/news/rss/1</Value>
@@ -37,7 +37,7 @@
         <Value>core-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.RateUri">
-        <Value>http://ima9ines.com/core-plugin/</Value>
+        <Value>http://ima9ines.com/core-plugin-390/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
