@@ -37,7 +37,7 @@
         <Value>core-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.RateUri">
-        <Value>http://ima9ines.com/core-plugin-390/</Value>
+        <Value>https://www.nopcommerce.com/p/2906/core-plugin-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
