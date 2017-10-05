@@ -4,7 +4,7 @@
         <Value>faq-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FAQ.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/2911/faq-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FAQ.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
