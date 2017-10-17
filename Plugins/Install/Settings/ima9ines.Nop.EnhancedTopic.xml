@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.EnhancedTopic.PluginSeName">
+        <Value>enhanced-topic-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedTopic.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedTopic.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedTopic.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/enhanced-topic-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedTopic.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
