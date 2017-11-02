@@ -22,7 +22,7 @@
         <Value>http://ima9ines.com/news/rss/1</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.MarketerNewsRssUrl">
-        <Value>http://localhost/nopCommerce_3.90_NoSource/marketernews/rss/1</Value>
+        <Value>http://ima9ines.com/marketernews/rss/1</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookUrl">
         <Value>https://www.facebook.com/ima9ines</Value>
