@@ -21,7 +21,7 @@
     <Setting Key="ima9ines.Nop.RssUrl">
         <Value>http://ima9ines.com/news/rss/1</Value>
     </Setting>
-    <Setting Key="ima9ines.Nop.MarketerNews.RssUrl">
+    <Setting Key="ima9ines.Nop.MarketerNewsRssUrl">
         <Value>http://ima9ines.com/marketernews/rss/1</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.FacebookUrl">
