@@ -4,7 +4,7 @@
         <Value>enhanced-topic-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.EnhancedTopic.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/3025/enhanced-topic-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.EnhancedTopic.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
