@@ -4,7 +4,7 @@
         <Value>enhanced-news-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.EnhancedNews.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/3028/enhanced-news-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.EnhancedNews.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
