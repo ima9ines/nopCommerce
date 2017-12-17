@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.EnhancedNews.PluginSeName">
+        <Value>enhanced-news-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedNews.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedNews.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedNews.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/enhanced-news-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedNews.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
