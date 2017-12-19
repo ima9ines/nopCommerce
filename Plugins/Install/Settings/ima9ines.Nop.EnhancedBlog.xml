@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.EnhancedBlog.PluginSeName">
+        <Value>enhanced-blog-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedBlog.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedBlog.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedBlog.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/enhanced-blog-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.EnhancedBlog.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
