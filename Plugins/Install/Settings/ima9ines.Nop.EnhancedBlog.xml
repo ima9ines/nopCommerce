@@ -4,7 +4,7 @@
         <Value>enhanced-blog-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.EnhancedBlog.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/3031/enhanced-blog-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.EnhancedBlog.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
