@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.GetSiteControl.PluginSeName">
+        <Value>get-site-control-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.GetSiteControl.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.GetSiteControl.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.GetSiteControl.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/get-site-control-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.GetSiteControl.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
