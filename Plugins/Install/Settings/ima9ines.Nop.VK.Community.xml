@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.VK.Community.PluginSeName">
+        <Value>vk-community-widget-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.VK.Community.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.VK.Community.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.VK.Community.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/vk-community-widget-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.VK.Community.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
