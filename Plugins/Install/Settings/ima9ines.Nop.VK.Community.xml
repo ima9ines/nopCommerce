@@ -4,7 +4,7 @@
         <Value>vk-community-widget-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.VK.Community.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/3050/vk-widgets-for-sites-community-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.VK.Community.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
