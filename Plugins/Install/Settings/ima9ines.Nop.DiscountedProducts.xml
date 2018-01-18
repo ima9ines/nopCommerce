@@ -4,7 +4,7 @@
         <Value>discounted-products-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.DiscountedProducts.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/3054/discounted-products-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.DiscountedProducts.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
