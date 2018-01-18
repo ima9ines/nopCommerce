@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.DiscountedProducts.PluginSeName">
+        <Value>discounted-products-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.DiscountedProducts.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.DiscountedProducts.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.DiscountedProducts.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/discounted-products-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.DiscountedProducts.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
