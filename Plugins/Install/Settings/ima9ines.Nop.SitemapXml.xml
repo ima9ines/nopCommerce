@@ -4,7 +4,7 @@
         <Value>sitemap-xml-plugin/</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.SitemapXml.RateUri">
-        <Value></Value>
+        <Value>https://www.nopcommerce.com/p/3061/sitemap-xml-free-ima9inescom.aspx</Value>
     </Setting>
     <Setting Key="ima9ines.Nop.SitemapXml.SuggestFeaturesUri">
         <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
