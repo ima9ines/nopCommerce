@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Setting Key="ima9ines.Nop.SitemapXml.PluginSeName">
+        <Value>sitemap-xml-plugin/</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.SitemapXml.RateUri">
+        <Value></Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.SitemapXml.SuggestFeaturesUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.SitemapXml.HelpUri">
+        <Value>https://github.com/ima9ines/nopCommerce/wiki/sitemap-xml-plugin</Value>
+    </Setting>
+    <Setting Key="ima9ines.Nop.SitemapXml.ReportBugsUri">
+        <Value>https://github.com/ima9ines/nopCommerce/issues</Value>
+    </Setting>
+</Settings>
