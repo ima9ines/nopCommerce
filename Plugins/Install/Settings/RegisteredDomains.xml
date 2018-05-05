@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Domains>
+    <Domain>http://localhost</Domain>
     <Domain>http://ima9ines.com</Domain>
+    <Domain>https://banca.fish</Domain>
     <Domain>http://www.fbjewel.com.hk</Domain>
 </Domains>
